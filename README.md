@@ -1,2 +1,1 @@
-# Simple-Zone-Transfer-Script-1
-Test
+Practicing Bash scripting.  However, it might be useful to someone. 
